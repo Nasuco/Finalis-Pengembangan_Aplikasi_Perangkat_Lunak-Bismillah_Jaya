@@ -1,62 +1,83 @@
-# CodeIgniter 4 Application Starter
+# Finalis-Pengembangan Aplikasi Perangkat Lunak-Bismillah Jaya
 
-## What is CodeIgniter?
+<p align="center">
+    <img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/SIPGIZI.png" >
+</p>
 
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
-More information can be found at the [official site](https://codeigniter.com).
+## Installation
+1. Clone Repo (https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya.git)
+2. Move Directory repo
+3. composer Install
+4. Import file `sipgizi.sql` to your database
+5. Start your database
+6. php spark serve
 
-This repository holds a composer-installable app starter.
-It has been built from the
-[development repository](https://github.com/codeigniter4/CodeIgniter4).
+## Latar Belakang SIPGIZI
 
-More information about the plans for version 4 can be found in [CodeIgniter 4](https://forum.codeigniter.com/forumdisplay.php?fid=28) on the forums.
+Nutrisi yang baik sangat penting untuk mencapai sumber daya manusia yang berkualitas, terutama selama 1000 hari pertama kehidupan. Kebijakan pemerintah Indonesia untuk 2025-2030 fokus pada peningkatan status gizi penduduk. Poliklinik gizi di rumah sakit memberikan pelayanan optimal, terutama untuk gizi balita, dengan pencatatan perkembangan yang teliti. Inovasi dalam poliklinik gizi diperlukan untuk solusi yang efektif dalam meningkatkan status gizi masyarakat.
 
-The user guide corresponding to the latest version of the framework can be found
-[here](https://codeigniter4.github.io/userguide/).
+## Tujuan dan Manfaat
+- Tujuan
+Penyederhanaan proses pencatatan data gizi balita dan memberikan akses yang mudah bagi ahli gizi untuk melakukan perekaman dengan efisiensi tinggi.
+- Manfaat
+Peningkatan kemampuan monitoring dan evaluasi perkembangan gizi balita.
 
-## Installation & updates
+## Fitur - Fitur SIPGIZI
+- Login
+- Register
+- Beranda
+- Data Pasien
+- Rekam Medis
+- Riwayat
+- Logout
 
-`composer create-project codeigniter4/appstarter` then `composer update` whenever
-there is a new release of the framework.
+## Metode Pengembangan Perangkat Lunak
+Metode pengembangan perangkat lunak yang digunakan pada pembuatan aplikasi ini adalah Rapid Application Development (RAD).<br>
+Tahapan RAD:
+1. Perencanaan Kebutuhan
+2. Desain Sistem
+3. Pengembangan dan mengumpulkan umpan balik
+4. Implementasi
 
-When updating, check the release notes to see if there are any changes you might need to apply
-to your `app` folder. The affected files can be copied or merged from
-`vendor/codeigniter4/framework/app`.
+<img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/RAD.png" >
 
-## Setup
+## Desain Sistem
+- Use Case Diagram
+<img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/USECASE.png" >
+- Activity Diagram
+<img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/ACTIVITY.png" >
+- Flowchart
+<img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/FLOWCHART.png" >
 
-Copy `env` to `.env` and tailor for your app, specifically the baseURL
-and any database settings.
+## Implementasi Perangkat Lunak
+- Sistem Operasi
+Microsoft Windows 11
+- Software dan Bahasa Pemrograman
+PHP, Java Script, Bootstrap, Apache, CodeIgniter 4, Visual Studio Code, Laragon.
+- Database Management System
+SQL
 
-## Important Change with index.php
+## Hasil Pengembangan SIPGIZI
+- Halaman Login
+<img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/LOGINSIPGIZI.png" >
+Setelah pengguna register maka akan ke tampilan login kembali untuk masuk sesuai dengan akun yang telah didaftarkan pada “SIPGIZI”.
+- Halaman Registrasi
+<img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/REGISTSIPGIZI.png" >
+Jika user/pengguna belum memiliki akun, maka perlu membuat akun terlebih dahulu dengan klik buat aku baru.
+- Halaman Beranda
+<img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/BERANDA.png" >
+Pada laman beranda akan muncul tampilan user information, total pasien, total rekam medis, Riwayat pemeriksaan hari ini.
+- Halaman Data Pasien
+<img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/DATAPASIEN.png" >
+Pada menu data pasien menampilkan data pasien yang sudah dimasukkan pada fitur tambah pasien, serta terdapat action detail, edit, dan filter sesuai nama/nik.
+- Halaman Rekam Medis
+<img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/RM.png" >
+Pada menu Rekam Medis menampilkan data pasien yang sudah dimasukkan pada menu data pasien, serta terdapat action edit untuk menambahkan data rekam medis, detail, delete, dan filter sesuai nama/no. rm.
+- Halaman Riwayat
+<img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/RIWAYAT.png" >
 
-`index.php` is no longer in the root of the project! It has been moved inside the *public* folder,
-for better security and separation of components.
+THANK YOU
+ENJOOY CODING!
 
-This means that you should configure your web server to "point" to your project's *public* folder, and
-not to the project root. A better practice would be to configure a virtual host to point there. A poor practice would be to point your web server to the project root and expect to enter *public/...*, as the rest of your logic and the
-framework are exposed.
-
-**Please** read the user guide for a better explanation of how CI4 works!
-
-## Repository Management
-
-We use GitHub issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.
-We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss
-FEATURE REQUESTS.
-
-This repository is a "distribution" one, built by our release preparation script.
-Problems with it can be raised on our forum, or as issues in the main repository.
-
-## Server Requirements
-
-PHP version 7.4 or higher is required, with the following extensions installed:
-
-- [intl](http://php.net/manual/en/intl.requirements.php)
-- [mbstring](http://php.net/manual/en/mbstring.installation.php)
-
-Additionally, make sure that the following extensions are enabled in your PHP:
-
-- json (enabled by default - don't turn it off)
-- [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
-- [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+## License
+deploy sistem by <b>Bismillah Jaya Team</b>
