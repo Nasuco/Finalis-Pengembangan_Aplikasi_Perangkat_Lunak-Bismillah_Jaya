@@ -60,20 +60,20 @@ SQL
 ## Hasil Pengembangan SIPGIZI
 - <b>Halaman Login</b>
 <img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/LOGINSIPGIZI.png" >
-Setelah pengguna register maka akan ke tampilan login kembali untuk masuk sesuai dengan akun yang telah didaftarkan pada “SIPGIZI”.<br>
+Halaman Login untuk masuk sesuai dengan akun yang telah didaftarkan pada “SIPGIZI”.<br><br>
 - <b>Halaman Registrasi</b>
 <img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/REGISTSIPGIZI.png" >
-Jika user/pengguna belum memiliki akun, maka perlu membuat akun terlebih dahulu dengan klik buat aku baru.<br>
+Jika user/pengguna belum memiliki akun, maka perlu membuat akun terlebih dahulu dengan klik buat aku baru.<br><br>
 - <b>Halaman Beranda</b>
 <img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/BERANDA.png" >
-Pada laman beranda akan muncul tampilan user information, total pasien, total rekam medis, Riwayat pemeriksaan hari ini.<br>
+Pada laman beranda akan muncul tampilan user information, total pasien, total rekam medis, Riwayat pemeriksaan hari ini.<br><br>
 - <b>Halaman Data Pasien</b>
 <img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/DATAPASIEN.png" >
-Pada menu data pasien menampilkan data pasien yang sudah dimasukkan pada fitur tambah pasien, serta terdapat action detail, edit, dan filter sesuai nama/nik.<br>
+Pada menu data pasien menampilkan data pasien yang sudah dimasukkan pada fitur tambah pasien, serta terdapat action detail, edit, dan filter sesuai nama/nik.<br><br>
 - <b>Halaman Rekam Medis</b>
 <img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/RM.png" >
-Pada menu Rekam Medis menampilkan data pasien yang sudah dimasukkan pada menu data pasien, serta terdapat action edit untuk menambahkan data rekam medis, detail, delete, dan filter sesuai nama/no. rm.<br>
-- <br>Halaman Riwayat</br>
+Pada menu Rekam Medis menampilkan data pasien yang sudah dimasukkan pada menu data pasien, serta terdapat action edit untuk menambahkan data rekam medis, detail, delete, dan filter sesuai nama/no. rm.<br><br>
+- <b>Halaman Riwayat</b>
 <img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/RIWAYAT.png" >
 
 <b>THANK YOU</b><br>
