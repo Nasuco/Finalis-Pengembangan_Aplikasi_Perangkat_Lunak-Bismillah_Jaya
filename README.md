@@ -17,9 +17,9 @@
 Nutrisi yang baik sangat penting untuk mencapai sumber daya manusia yang berkualitas, terutama selama 1000 hari pertama kehidupan. Kebijakan pemerintah Indonesia untuk 2025-2030 fokus pada peningkatan status gizi penduduk. Poliklinik gizi di rumah sakit memberikan pelayanan optimal, terutama untuk gizi balita, dengan pencatatan perkembangan yang teliti. Inovasi dalam poliklinik gizi diperlukan untuk solusi yang efektif dalam meningkatkan status gizi masyarakat.
 
 ## Tujuan dan Manfaat
-- Tujuan
-Penyederhanaan proses pencatatan data gizi balita dan memberikan akses yang mudah bagi ahli gizi untuk melakukan perekaman dengan efisiensi tinggi.
-- Manfaat
+- Tujuan<br>
+Penyederhanaan proses pencatatan data gizi balita dan memberikan akses yang mudah bagi ahli gizi untuk melakukan perekaman dengan efisiensi tinggi.<br>
+- Manfaat<br>
 Peningkatan kemampuan monitoring dan evaluasi perkembangan gizi balita.
 
 ## Fitur - Fitur SIPGIZI
@@ -50,33 +50,33 @@ Tahapan RAD:
 <img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/FLOWCHART.png" >
 
 ## Implementasi Perangkat Lunak
-- Sistem Operasi
-Microsoft Windows 11
-- Software dan Bahasa Pemrograman
-PHP, Java Script, Bootstrap, Apache, CodeIgniter 4, Visual Studio Code, Laragon.
-- Database Management System
+- Sistem Operasi <br>
+Microsoft Windows 11<br>
+- Software dan Bahasa Pemrograman<br>
+PHP, Java Script, Bootstrap, Apache, CodeIgniter 4, Visual Studio Code, Laragon.<br>
+- Database Management System<br>
 SQL
 
 ## Hasil Pengembangan SIPGIZI
 - Halaman Login
 <img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/LOGINSIPGIZI.png" >
-Setelah pengguna register maka akan ke tampilan login kembali untuk masuk sesuai dengan akun yang telah didaftarkan pada “SIPGIZI”.
+Setelah pengguna register maka akan ke tampilan login kembali untuk masuk sesuai dengan akun yang telah didaftarkan pada “SIPGIZI”.<br>
 - Halaman Registrasi
 <img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/REGISTSIPGIZI.png" >
-Jika user/pengguna belum memiliki akun, maka perlu membuat akun terlebih dahulu dengan klik buat aku baru.
+Jika user/pengguna belum memiliki akun, maka perlu membuat akun terlebih dahulu dengan klik buat aku baru.<br>
 - Halaman Beranda
 <img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/BERANDA.png" >
-Pada laman beranda akan muncul tampilan user information, total pasien, total rekam medis, Riwayat pemeriksaan hari ini.
+Pada laman beranda akan muncul tampilan user information, total pasien, total rekam medis, Riwayat pemeriksaan hari ini.<br>
 - Halaman Data Pasien
 <img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/DATAPASIEN.png" >
-Pada menu data pasien menampilkan data pasien yang sudah dimasukkan pada fitur tambah pasien, serta terdapat action detail, edit, dan filter sesuai nama/nik.
+Pada menu data pasien menampilkan data pasien yang sudah dimasukkan pada fitur tambah pasien, serta terdapat action detail, edit, dan filter sesuai nama/nik.<br>
 - Halaman Rekam Medis
 <img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/RM.png" >
-Pada menu Rekam Medis menampilkan data pasien yang sudah dimasukkan pada menu data pasien, serta terdapat action edit untuk menambahkan data rekam medis, detail, delete, dan filter sesuai nama/no. rm.
+Pada menu Rekam Medis menampilkan data pasien yang sudah dimasukkan pada menu data pasien, serta terdapat action edit untuk menambahkan data rekam medis, detail, delete, dan filter sesuai nama/no. rm.<br>
 - Halaman Riwayat
 <img src="https://github.com/Nasuco/Finalis-Pengembangan_Aplikasi_Perangkat_Lunak-Bismillah_Jaya/blob/main/public/img/RIWAYAT.png" >
 
-THANK YOU
+THANK YOU<br>
 ENJOOY CODING!
 
 ## License
